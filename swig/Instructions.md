@@ -1,6 +1,6 @@
-**Follow these steps**
+**Follow these steps please**
 
-1. Create the header `example.h` and declare function definitions. //
+1. Create the header `example.h` and declare function definitions. 
 2. Write the functions in `example.cpp` and also import `example.h` in the `.cpp` file.
 3. Write the interface file `example.i`.
 4. Use the command `swig -c++ -python example.i` to create binaries.
