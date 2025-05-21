@@ -1,1 +1,1 @@
-*This is a repo for my random shit that I need to work.*
+*This is a repo for random shit that I need for work.*
